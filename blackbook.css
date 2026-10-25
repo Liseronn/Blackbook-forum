@@ -144,3 +144,180 @@
 /* Footer et éléments généraux secondaires */
 .adminlink,#moderation_forum_tools{font-size:8px!important}
 #page-footer{font-size:8px!important;color:#606860!important}
+/* =========================================================
+   BLACKBOOK // MICRO TEXT READABILITY
+   Petits labels uniquement — aucune structure modifiée
+   ========================================================= */
+
+/* Couleur générale des micro-informations */
+.bb-pa-label,
+.bb-pa-data,
+.bb-pa-filetop,
+.bb-pa-log,
+.bb-pa-person b,
+.bb-pa-person small,
+.bb-pa-stafftext small,
+.bb-pa-footer,
+.bb-category-index,
+.bb-category-access,
+.bb-forum-image-code,
+.bb-forum-stats span,
+.bb-forum-label span,
+.bb-subforums-label,
+.bb-activity-status b,
+.bb-activity-author,
+.bb-qeel-label,
+.bb-qeel-label small,
+.bb-qeel-newest-data small,
+.bb-qeel-newest-data span,
+.bb-qeel-stats small,
+.bb-qeel-activity > span,
+.bb-qeel-credits > span,
+.bb-id-code,
+.bb-id-online,
+.bb-id-label,
+.bb-id-avatar-tag,
+.bb-id-meta,
+.bb-profile-data-head,
+.bb-post-meta{
+    color:#727b73!important;
+}
+
+/* PA : informations techniques */
+.bb-pa-label,
+.bb-pa-data,
+.bb-pa-filetop{
+    font-size:9px!important;
+    line-height:1.55!important;
+}
+
+.bb-pa-log{
+    font-size:8px!important;
+    line-height:1.5!important;
+}
+
+.bb-pa-person b,
+.bb-pa-person small,
+.bb-pa-stafftext small{
+    font-size:8px!important;
+    line-height:1.45!important;
+}
+
+.bb-pa-footer{
+    font-size:8px!important;
+}
+
+/* Catégories */
+.bb-category-index,
+.bb-category-access{
+    font-size:8px!important;
+}
+
+.bb-forum-image-code{
+    font-size:8px!important;
+}
+
+.bb-forum-stats span{
+    font-size:7px!important;
+}
+
+.bb-forum-stats b{
+    font-size:9px!important;
+}
+
+.bb-forum-label span,
+.bb-subforums-label{
+    font-size:8px!important;
+}
+
+.bb-subforums-links{
+    font-size:9px!important;
+}
+
+.bb-activity-status b,
+.bb-activity-author{
+    font-size:8px!important;
+    line-height:1.45!important;
+}
+
+.bb-activity-topic a{
+    font-size:9px!important;
+}
+
+/* QEEL */
+.bb-qeel-title i{
+    font-size:8px!important;
+}
+
+.bb-qeel-label{
+    font-size:9px!important;
+}
+
+.bb-qeel-label small{
+    font-size:8px!important;
+}
+
+.bb-qeel-newest-data small,
+.bb-qeel-newest-data span{
+    font-size:8px!important;
+}
+
+.bb-qeel-newest-data #dernier_membre{
+    font-size:10px!important;
+}
+
+.bb-qeel-stats small{
+    font-size:8px!important;
+}
+
+.bb-qeel-stats strong{
+    font-size:10px!important;
+}
+
+.bb-qeel-activity > span,
+.bb-qeel-credits > span{
+    font-size:8px!important;
+}
+
+/* Profil */
+.bb-id-code,
+.bb-id-online,
+.bb-id-label{
+    font-size:8px!important;
+}
+
+.bb-id-avatar-tag{
+    font-size:7px!important;
+}
+
+.bb-id-meta{
+    font-size:7px!important;
+    line-height:1.5!important;
+}
+
+.bouton-profil.bb-profile-toggle{
+    font-size:8px!important;
+}
+
+.bb-profile-data-head{
+    font-size:7px!important;
+}
+
+.postdetails.poster-profile{
+    font-size:9px!important;
+    line-height:1.65!important;
+}
+
+.bb-id-contact{
+    font-size:8px!important;
+}
+
+/* Barre supérieure des messages */
+.bb-post-meta{
+    font-size:8px!important;
+    line-height:1.5!important;
+}
+
+.rep-button{
+    font-size:8px!important;
+}
